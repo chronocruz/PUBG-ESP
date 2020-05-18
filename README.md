@@ -1,6 +1,5 @@
 # PUBG-ESP
 
-Inspired by Safu_Iraq
 ESP for PUBG-Mobile
 
 Supported Emulators: LD Player - 4.0.6 only for now
