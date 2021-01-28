@@ -1,6 +1,7 @@
 # PUBG-ESP
 
 ESP for PUBG-Mobile
+<Not updated after 0.19>
 
 Supported Emulators: LD Player - 4.0.6 only for now
 
